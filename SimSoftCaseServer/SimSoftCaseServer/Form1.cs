@@ -91,5 +91,10 @@ namespace SimSoftCaseServer
 				form2.Show();
 		}
 
+		private void button2_Click(object sender, EventArgs e)
+		{
+			thSrv.Interrupt();
+			System.Environment.Exit(0);
+		}
 	}
 }
