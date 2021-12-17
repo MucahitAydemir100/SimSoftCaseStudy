@@ -1,0 +1,11 @@
+C:\Users\mucah\source\repos\SimSoftCaseClient\SimSoftCaseClient\bin\Debug\SimSoftCaseClient.exe.config
+C:\Users\mucah\source\repos\SimSoftCaseClient\SimSoftCaseClient\bin\Debug\SimSoftCaseClient.exe
+C:\Users\mucah\source\repos\SimSoftCaseClient\SimSoftCaseClient\bin\Debug\SimSoftCaseClient.pdb
+C:\Users\mucah\source\repos\SimSoftCaseClient\SimSoftCaseClient\obj\Debug\SimSoftCaseClient.csprojAssemblyReference.cache
+C:\Users\mucah\source\repos\SimSoftCaseClient\SimSoftCaseClient\obj\Debug\SimSoftCaseClient.Form1.resources
+C:\Users\mucah\source\repos\SimSoftCaseClient\SimSoftCaseClient\obj\Debug\SimSoftCaseClient.Properties.Resources.resources
+C:\Users\mucah\source\repos\SimSoftCaseClient\SimSoftCaseClient\obj\Debug\SimSoftCaseClient.csproj.GenerateResource.cache
+C:\Users\mucah\source\repos\SimSoftCaseClient\SimSoftCaseClient\obj\Debug\SimSoftCaseClient.csproj.CoreCompileInputs.cache
+C:\Users\mucah\source\repos\SimSoftCaseClient\SimSoftCaseClient\obj\Debug\SimSoftCaseClient.exe
+C:\Users\mucah\source\repos\SimSoftCaseClient\SimSoftCaseClient\obj\Debug\SimSoftCaseClient.pdb
+C:\Users\mucah\source\repos\SimSoftCaseClient\SimSoftCaseClient\obj\Debug\SimSoftCaseClient.Form2.resources
